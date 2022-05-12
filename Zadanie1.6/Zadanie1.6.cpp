@@ -36,7 +36,7 @@ void checkMoney(float money)
 	}
 }
 
-
+//komentarz testowy - go GIT
 
 int main()
 {
